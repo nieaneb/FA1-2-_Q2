@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin: 0 15%;
+    width: 75%;
+    border: 2px solid blue;
+}
+
+header {
+    background-color: lightgray;
+}
+
+h1 {
+    background-color: lightgray;
+    margin-top: 20px;
+    padding: 0;
+}
+
+h2 {
+    background-color: lightgray;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: "Courier New", Courier, monospace;
+}
+
+video {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+}
